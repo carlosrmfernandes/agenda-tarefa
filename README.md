@@ -23,10 +23,8 @@ Um sistema moderno e intuitivo para gerenciamento de usuários e tarefas, desenv
 - **Frontend:** React 18
 - **Build Tool:** Vite
 - **Estilização:** Tailwind CSS
-- **Componentes UI:** shadcn/ui
 - **Ícones:** Lucide React
 - **Roteamento:** React Router DOM
-- **Notificações:** Sonner
 - **Requisições HTTP:** Fetch API
 
 ## 🚀 Como Executar o Projeto
